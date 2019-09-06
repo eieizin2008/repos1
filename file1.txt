@@ -1,1 +1,4 @@
 This is my new txt File for Git Testing 
+--- Editing the text file
+--- Edit again
+
